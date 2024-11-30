@@ -23,7 +23,7 @@ The results provide actionable insights for tailoring marketing strategies and o
 
 The repository includes:
 
-- **Python Notebook:** The full K-Means implementation in Python, with data preprocessing, clustering analysis, and visualization.
+- **Colab Notebook:** The full K-Means implementation in Python, with data preprocessing, clustering analysis, and visualization.
 - **Data Summary:** Key statistics and findings from the clustering process.
 - **Interactive Google Colab Notebook:** Easily runnable for reproducing results.
 - **Key Insights and Recommendations:** Business implications for each traveler segment.
