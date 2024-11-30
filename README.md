@@ -1,5 +1,9 @@
 # TravelTide-Project
-Customer Segmentation (K-Means) - Hotel &amp; Flights Booking platform  
+Customer Segmentation (K-Means) - Hotel &amp; Flights Booking platform 
+
+## Files attached
+- Final TravelTide Project-John Burgmayer-29Nov24.pdf
+- Final_TravelTide_Project_John_Burgmayer_May2024.ipynb
 
 ## Links to Resources
 - [Open in Google Colab](https://colab.research.google.com/drive/1uCjS1fcmxf15ExYl0OOj-91fEJ2h0ICg?usp=sharing)
