@@ -1,5 +1,5 @@
 # TravelTide-Project 
-by John Burgmayer (Junio Data Analyst)
+by John Burgmayer (Junior Data Analyst)
 Nov 2024
 
 Customer Segmentation (K-Means) - Hotel &amp; Flights Booking platform 
