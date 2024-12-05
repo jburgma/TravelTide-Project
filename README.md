@@ -1,4 +1,5 @@
-# TravelTide-Project 
+# K-Means Clustering for Traveler Segmentation
+TravelTide-Project 
 by John Burgmayer (Junior Data Analyst)
 Nov 2024
 
